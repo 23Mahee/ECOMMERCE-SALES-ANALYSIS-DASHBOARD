@@ -23,7 +23,7 @@ This project is an interactive Excel dashboard designed to analyze the performan
 - [ Dashboard Screenshot 1](Dashboard%201.JPG)  
 - [ Dashboard Screenshot 2](Dashboard%202.JPG)  
 - [ Dashboard Screenshot 3](Dashboard%203.JPG)  
-- [ Demo Video](Dashboard.mp4)  
+- [ Demo Video](Dashboard.mkv)  
 
 ## 🎯 Learning Outcome
 This project helped me strengthen my Excel skills in:
