@@ -19,11 +19,11 @@ This project is an interactive Excel dashboard designed to analyze the performan
 - Interactive visuals for easy decision-making
 
 ## 📂 Project Files
-- [📊 Download Excel Dashboard](Ecommerce_Sales_Analysis.xlsx)  
-- ![🖼 Dashboard Screenshot 1](Dashboard1.JPG)  
-- ![🖼 Dashboard Screenshot 2](Dashboard2.JPG)  
-- ![🖼 Dashboard Screenshot 3](Dashboard3.JPG)  
-- [🎥 Demo Video](Excel_Dashboard.mp4)  
+- [ Download Excel Dashboard](Ecommerce%20Sales%20Analysis.xlsx)  
+- [ Dashboard Screenshot 1](Dashboard%201.JPG)  
+- [ Dashboard Screenshot 2](Dashboard%202.JPG)  
+- [ Dashboard Screenshot 3](Dashboard%203.JPG)  
+- [ Demo Video](Dashboard.mp4)  
 
 ## 🎯 Learning Outcome
 This project helped me strengthen my Excel skills in:
