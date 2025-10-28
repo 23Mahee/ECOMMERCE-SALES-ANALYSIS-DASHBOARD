@@ -30,3 +30,6 @@ This project helped me strengthen my Excel skills in:
 - Dashboard building with PivotTables & PivotCharts
 - Using slicers for interactivity
 - Data-driven storytelling and visualization
+
+## Dashboard Preview: 
+![Dashboard Preview](https://github.com/23Mahee/ECOMMERCE-SALES-ANALYSIS-DASHBOARD/blob/main/Dashboard%201.JPG)
